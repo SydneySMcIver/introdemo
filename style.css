@@ -5,3 +5,7 @@ p {
     font-family: 'sans-serif';
     color: red;
 }
+
+body{
+    background-color: aqua;
+}
